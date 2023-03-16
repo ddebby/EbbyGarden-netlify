@@ -4,8 +4,8 @@ site_url: http://blog.a-stack.com/EbbyGarden/ #http://ddebby.github.io/EbbyGarde
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicons.svg
+    favicon: assets/meta/favicons.svg
     custom_dir: overrides
     font:
         text: Ubuntu
@@ -125,7 +125,7 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
-  SEO: assets/meta/favicons.png
+  SEO: assets/meta/favicons.svg
   comments: false #disable comments globally
   generate_graph: false #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
