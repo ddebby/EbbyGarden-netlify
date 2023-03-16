@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: EbbyGarden # Change this to your site name
+site_description: EbbyGarden
+site_url: http://blog.a-stack.com/EbbyGarden/ #http://ddebby.github.io/EbbyGarden/ # Change this to your site URL
 
 theme:
     name: 'material'
@@ -125,7 +125,7 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
-  SEO: assets/meta/SEO.png
+  SEO: assets/meta/favicons.png
   comments: false #disable comments globally
   generate_graph: false #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
